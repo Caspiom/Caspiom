@@ -1,6 +1,6 @@
 EN:
 - 👋 Hi, I’m @Caspiom
-- 👀 I’m interested in photography, gaming, and cinema!
+- 👀 I’m interested in photography, gaming and cinema!
 - 🌱 I’m currently learning software engineering.
 - 📫 You can reach me at lucasamsg6@gmail.com
 
