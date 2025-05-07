@@ -1,16 +1,38 @@
-EN:
-- 👋 Hi, I’m @Caspiom
-- 👀 I’m interested in photography, gaming and cinema!
-- 🌱 I’m currently learning software engineering.
-- 📫 You can reach me at lucasamsg6@gmail.com
 
-PT-BR:
-- 👋 Olá, eu sou @Caspiom
-- 👀 Tenho interesse em fotografia, games e cinema!
-- 🌱 Atualmente, estou aprendendo engenharia de software.
-- 📫 Você pode me contatar pelo lucasamsg6@gmail.com
 
-<!---
-Caspiom/Caspiom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+
+  
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=isaac545454&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=isaac545454&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=linux,kali,java,cs,py,dotnet,git,vscode,javascript,typescript,css,html,next,tailwind,nodejs,vue,docker,figma,github,postman,mysql,postgres,discord" />
+</a>
+  <br />
+
+  </div>
+
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=Caspiom&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
+
+
+
+
+
+
+ 
+  
+  
+
+  
