@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=800&size=32&pause=1000&color=8B24F7&width=435&lines=Gaspari)](https://git.io/typing-svg)
 
 
   
